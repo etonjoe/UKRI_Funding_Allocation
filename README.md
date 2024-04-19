@@ -11,4 +11,5 @@ They do this through providing performance-based, HEP-focused funding to:
 - Unlock potential
 - Generate economic and social impact
 - Meet local and regional priorities and tackle national and global challenges.
+
 This includes a strong focus on high-value, strategic and agile funding streams such as quality-related research (QR) funding underpinned by the Research Excellence Framework (REF) and support for knowledge exchange via Higher Education Innovation Funding (HEIF).
